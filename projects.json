@@ -1,0 +1,17 @@
+[
+  {
+    "title": "개인 자동화 시스템",
+    "kind": "자동화",
+    "description": "(작성 필요) 일상 업무를 자동으로 처리하는 macOS 로컬 시스템. 무엇을 자동화하는지 한두 줄로.",
+    "tags": ["Python", "macOS"],
+    "links": []
+  },
+  {
+    "title": "(앱 이름)",
+    "kind": "iOS",
+    "description": "(작성 필요) 어떤 문제를 푸는 앱인지 한두 줄로.",
+    "tags": ["Swift", "SwiftUI"],
+    "links": [{ "label": "App Store", "url": "https://apps.apple.com/" }],
+    "hidden": true
+  }
+]
